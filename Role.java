@@ -1,4 +1,4 @@
-package com.cristianRuizBlog.aplicacion.entity;
+package com.example.demo.entity;
 
 import java.io.Serializable;
 
